@@ -2,17 +2,20 @@
 A list of helpful links for web developers.
 
 ## Table of Contents
-1. [Terminal](#terminal)
-2. [Text editors](#text-editors)
-3. [Git / Github](#git--github)
+1. [General Mac](#general-mac)
+2. [Terminal](#terminal)
+3. [Text editors](#text-editors)
+4. [Git / Github](#git--github)
   - [Markdown files](#markdown-files)
   - [Git](#git)
-4. [Front-end design](#front-end-design)
+5. [Front-end design](#front-end-design)
   - [Color](#color)
   - [Free stock images](#free-stock-images)
   - [Placeholder text](#placeholder-text)
   - [Mockup generators](#mockup-generators)
 
+## General Mac
+- [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)
 
 ## Terminal
 - [Terminal cheatsheet (Mac)](https://github.com/0nn0/terminal-mac-cheatsheet)
