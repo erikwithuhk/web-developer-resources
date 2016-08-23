@@ -31,6 +31,7 @@ A list of helpful links for web developers.
 - [An Introduction to Color Theory for Web Designers](http://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437)
 - [Palettr](http://palettr.com/)
 - [Colorrrs](http://colorrrs.com/)
+- [Adobe Capture CC](https://itunes.apple.com/us/app/adobe-capture-cc-tool-for/id1040200189?mt=8)
 
 ### Free stock images
 - [Unsplash](https://unsplash.com)
