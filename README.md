@@ -15,7 +15,8 @@ A list of helpful links for web developers.
   - [Free stock images](#free-stock-images)
   - [Placeholder text](#placeholder-text)
   - [Mockup generators](#mockup-generators)
-6. [](#)
+6. [Blogs, podcasts, etc](#blogs-podcasts-etc)
+  - [Podcasts](#podcasts)
 
 
 
