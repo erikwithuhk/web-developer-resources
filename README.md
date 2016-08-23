@@ -3,14 +3,14 @@ A list of helpful links for web developers.
 
 ## Table of Contents
 1. [Text editors](#text-editors)
-2. Git / Github
-  - Markdown files
-  - Git
-3. Front-end design
-  - Color themes
-  - Free stock images
-  - Placeholder Text
-  - Mockup generators
+2. [Git / Github](#git--github)
+  - [Markdown files](#markdown-files)
+  - [Git](#git)
+3. [Front-end design](#front-end-design)
+  - [Color themes](#color-themes)
+  - [Free stock images](#free-stock-images)
+  - [Placeholder text](#placeholder-text)
+  - [Mockup generators](#mockup-generators)
 
 ## Text editors
 - [Sublime Text 3 cheatsheet](https://www.cheatography.com/tdeyle/cheat-sheets/sublime-text-3/)
