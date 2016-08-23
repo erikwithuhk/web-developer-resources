@@ -7,7 +7,7 @@ A list of helpful links for web developers.
   - [Markdown files](#markdown-files)
   - [Git](#git)
 3. [Front-end design](#front-end-design)
-  - [Color themes](#color-themes)
+  - [Color](#color)
   - [Free stock images](#free-stock-images)
   - [Placeholder text](#placeholder-text)
   - [Mockup generators](#mockup-generators)
@@ -27,7 +27,8 @@ A list of helpful links for web developers.
 
 ## Front-end design
 
-### Color themes
+### Color
+- [An Introduction to Color Theory for Web Designers](http://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437)
 - [Colorrrs](http://colorrrs.com/)
 
 ### Free stock images
