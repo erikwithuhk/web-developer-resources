@@ -1,6 +1,8 @@
 # Web Developer Resources
 A list of helpful links for web developers.
 
+
+
 ## Table of Contents
 1. [General Mac](#general-mac)
 2. [Terminal](#terminal)
@@ -14,14 +16,22 @@ A list of helpful links for web developers.
   - [Placeholder text](#placeholder-text)
   - [Mockup generators](#mockup-generators)
 
+
+
 ## General Mac
 - [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)
 
+
+
 ## Terminal
-- [Terminal cheatsheet (Mac)](https://github.com/0nn0/terminal-mac-cheatsheet)
+- [Terminal cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet)
+
+
 
 ## Text editors
 - [Sublime Text 3 cheatsheet](https://www.cheatography.com/tdeyle/cheat-sheets/sublime-text-3/)
+
+
 
 ## Git / Github
 
