@@ -1,4 +1,5 @@
-# WDI Burrows Resources
+# Web Developer Resources
+A list of helpful links for web developers.
 
 ## Text editors
 - [Sublime Text 3 cheatsheet](https://www.cheatography.com/tdeyle/cheat-sheets/sublime-text-3/)
