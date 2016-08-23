@@ -1,6 +1,17 @@
 # Web Developer Resources
 A list of helpful links for web developers.
 
+## Table of Contents
+1. [Text editors](#text-editors)
+2. Git / Github
+  - Markdown files
+  - Git
+3. Front-end design
+  - Color themes
+  - Free stock images
+  - Placeholder Text
+  - Mockup generators
+
 ## Text editors
 - [Sublime Text 3 cheatsheet](https://www.cheatography.com/tdeyle/cheat-sheets/sublime-text-3/)
 
