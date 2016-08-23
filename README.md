@@ -15,6 +15,7 @@ A list of helpful links for web developers.
   - [Free stock images](#free-stock-images)
   - [Placeholder text](#placeholder-text)
   - [Mockup generators](#mockup-generators)
+6. [](#)
 
 
 
@@ -30,6 +31,7 @@ A list of helpful links for web developers.
 
 ## Text editors
 - [Sublime Text 3 cheatsheet](https://www.cheatography.com/tdeyle/cheat-sheets/sublime-text-3/)
+- [Atom cheatsheet](http://blog.bugsnag.com/atom-editor-cheat-sheet)
 
 
 
@@ -62,3 +64,10 @@ A list of helpful links for web developers.
 
 ### Mockup generators
 - [Place It](https://placeit.net/)
+
+
+
+## Blogs, podcasts, etc.
+
+### Podcasts
+- [Shop Talk](http://shoptalkshow.com/)
