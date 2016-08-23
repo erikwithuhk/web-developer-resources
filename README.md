@@ -2,15 +2,20 @@
 A list of helpful links for web developers.
 
 ## Table of Contents
-1. [Text editors](#text-editors)
-2. [Git / Github](#git--github)
+1. [Terminal](#terminal)
+2. [Text editors](#text-editors)
+3. [Git / Github](#git--github)
   - [Markdown files](#markdown-files)
   - [Git](#git)
-3. [Front-end design](#front-end-design)
+4. [Front-end design](#front-end-design)
   - [Color](#color)
   - [Free stock images](#free-stock-images)
   - [Placeholder text](#placeholder-text)
   - [Mockup generators](#mockup-generators)
+
+
+## Terminal
+- [Terminal cheatsheet (Mac)](https://github.com/0nn0/terminal-mac-cheatsheet)
 
 ## Text editors
 - [Sublime Text 3 cheatsheet](https://www.cheatography.com/tdeyle/cheat-sheets/sublime-text-3/)
@@ -22,6 +27,7 @@ A list of helpful links for web developers.
 
 ### Git
 - [Git cheatsheet](https://www.git-tower.com/blog/git-cheat-sheet)
+- [Git workflow guide](http://rogerdudler.github.io/git-guide/)
 
 
 
